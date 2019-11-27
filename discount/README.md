@@ -21,6 +21,6 @@ Then use maven update.
 ## Running the tests
 
 Step : 1 Open src/test/java
-Step : 2 GenerateBillTest , also you can test Object and test
+Step : 2 GenerateBillTest
 Step : 2 Right click and run as Junit Test 
 
